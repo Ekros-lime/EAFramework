@@ -6,6 +6,8 @@
 [Ll]ogs/
 [Pp]ackages/
 Assets/AssetStoreTools*
+.vsconfig
+UserSettings/
 
 #Visual Stdio cache directory
 .vs/
